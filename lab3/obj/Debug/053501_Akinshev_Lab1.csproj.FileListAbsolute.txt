@@ -1,0 +1,7 @@
+D:\ИСП\3 сем\lab1\obj\Debug\053501_Akinshev_Lab1.csprojAssemblyReference.cache
+D:\ИСП\3 сем\lab1\obj\Debug\053501_Akinshev_Lab1.csproj.CoreCompileInputs.cache
+D:\ИСП\3 сем\lab1\bin\Debug\lab1.exe.config
+D:\ИСП\3 сем\lab1\bin\Debug\lab1.exe
+D:\ИСП\3 сем\lab1\bin\Debug\lab1.pdb
+D:\ИСП\3 сем\lab1\obj\Debug\lab1.exe
+D:\ИСП\3 сем\lab1\obj\Debug\lab1.pdb
