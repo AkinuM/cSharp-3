@@ -1,0 +1,7 @@
+D:\ИСП\3 сем\lab4\bin\Debug\lab4.exe.config
+D:\ИСП\3 сем\lab4\bin\Debug\lab4.exe
+D:\ИСП\3 сем\lab4\bin\Debug\lab4.pdb
+D:\ИСП\3 сем\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+D:\ИСП\3 сем\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\ИСП\3 сем\lab4\obj\Debug\lab4.exe
+D:\ИСП\3 сем\lab4\obj\Debug\lab4.pdb
