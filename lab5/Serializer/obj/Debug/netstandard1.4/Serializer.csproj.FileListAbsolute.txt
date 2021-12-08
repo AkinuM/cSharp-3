@@ -1,0 +1,4 @@
+D:\ИСП\3 сем\lab5\Serializer\bin\Debug\netstandard1.4\Serializer.deps.json
+D:\ИСП\3 сем\lab5\Serializer\obj\Debug\netstandard1.4\Serializer.csprojAssemblyReference.cache
+D:\ИСП\3 сем\lab5\Serializer\obj\Debug\netstandard1.4\Serializer.csproj.CoreCompileInputs.cache
+D:\ИСП\3 сем\lab5\Serializer\obj\Debug\netstandard1.4\Serializer.AssemblyInfo.cs
