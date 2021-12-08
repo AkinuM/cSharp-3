@@ -1,0 +1,4 @@
+D:\ИСП\3 сем\lab5\ClassLibrary1\bin\Debug\netstandard1.4\lab5.Domain.deps.json
+D:\ИСП\3 сем\lab5\ClassLibrary1\obj\Debug\netstandard1.4\lab5.Domain.csprojAssemblyReference.cache
+D:\ИСП\3 сем\lab5\ClassLibrary1\obj\Debug\netstandard1.4\lab5.Domain.csproj.CoreCompileInputs.cache
+D:\ИСП\3 сем\lab5\ClassLibrary1\obj\Debug\netstandard1.4\lab5.Domain.AssemblyInfo.cs
